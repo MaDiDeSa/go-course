@@ -37,7 +37,7 @@ Review coverage with
 ## Pre-PR checklist
 
 -   Ensure your source code changes
-    -   Buil
+    -   Build
     -   Test
     -   Lint
     -   Have 100% test coverage
