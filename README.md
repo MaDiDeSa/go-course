@@ -1,5 +1,4 @@
 # Go Training
-
 [![Build Status](https://travis-ci.com/anz-bank/go-course.svg?branch=master)](https://travis-ci.com/anz-bank/go-course)
 [![Coverage](https://codecov.io/gh/anz-bank/go-course/branch/master/graph/badge.svg)](https://codecov.io/gh/anz-bank/go-course)
 [![GolangCI](https://golangci.com/badges/github.com/anz-bank/go-course.svg)](https://golangci.com/r/github.com/anz-bank/go-course)
